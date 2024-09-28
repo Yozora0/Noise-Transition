@@ -9,7 +9,7 @@ const Frame = () => {
         <a
           className="frame__github"
           target="_blank"
-          href="https://github.com/mohAmineBrs/codrops-noise-transition/"
+          href="https://github.com/Yozora0/Noise-Transition"
         >
           Github
         </a>
